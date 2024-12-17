@@ -1,30 +1,34 @@
-const express = require('express');
-const { getOpenAIResponse } = require('./apitest'); // Import the function
+const express = require("express");
+const cors = require("cors");
+const { getOpenAIResponse } = require("./apitest");
 
 const app = express();
-const port = 3000;  // Or your custom port
+const port = 3000;
 
-// Middleware to parse JSON bodies
+app.use(cors());
 app.use(express.json());
 
-// Define the API endpoint to receive the data
-app.post('/api/endpoint', (req, res) => {
-    const { key1, key2 } = req.body;
+app.post("/api/message", async (req, res) => {
+  try {
+    const { message } = req.body;
+    console.log("Received message:", message);
 
-    // Check if data is received
-    if (!key1 || !key2) {
-        return res.status(400).json({ message: 'Missing required data.' });
-    }
+    const response = await getOpenAIResponse(message);
+    console.log("OpenAI response:", response);
 
-    // For testing, log the received data to the console
-    console.log('Received data:', { key1, key2 });
-
-    // Send a success response
-    return res.status(200).json({ message: 'Request was successful!' });
+    res.status(200).json({
+      success: true,
+      message: response,
+    });
+  } catch (error) {
+    console.error("Error:", error);
+    res.status(500).json({
+      success: false,
+      error: error.message,
+    });
+  }
 });
 
-// Start the server
 app.listen(port, async () => {
-    console.log(`API is running on http://localhost:${port}`);
-     getOpenAIResponse(); // Execute the OpenAI function
+  console.log(`API is running on http://localhost:${port}`);
 });

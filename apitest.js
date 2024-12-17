@@ -9,18 +9,22 @@ const deployment = process.env["DEPLOYMENT"];
 
 const client = new AzureOpenAI({ endpoint, apiKey, apiVersion, deployment });
 
-async function getOpenAIResponse() {
+async function getOpenAIResponse(message) {
   try {
+    if (!message) {
+      throw new Error("Message is required");
+    }
+
     const result = await client.chat.completions.create({
       model: deployment,
       messages: [
         {
           role: "user",
-          content: "How are you doing "
-        }
-      ]
+          content: message,
+        },
+      ],
     });
-    console.log("OpenAI Response:", result.choices[0].message);
+
     return result.choices[0].message;
   } catch (error) {
     console.error("Error fetching response:", error);
