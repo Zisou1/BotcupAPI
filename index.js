@@ -28,6 +28,26 @@ app.post("/api/message", async (req, res) => {
     });
   }
 });
+app.post("/api/assistant", async (req, res) => {
+  try {
+    const { message } = req.body;
+    console.log("Received message:", message);
+
+    const response = await getOpenAIResponse(message);
+    console.log("OpenAI response:", response);
+
+    res.status(200).json({
+      success: true,
+      message: response,
+    });
+  } catch (error) {
+    console.error("Error:", error);
+    res.status(500).json({
+      success: false,
+      error: error.message,
+    });
+  }
+});
 
 app.listen(port, async () => {
   console.log(`API is running on http://localhost:${port}`);
