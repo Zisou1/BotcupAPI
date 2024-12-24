@@ -1,0 +1,665 @@
+﻿Chatbot Prompt
+________________
+Table des matières 
+Chatbot Botcup : arborescence
+1. Présentation Générale
+1.1 Description de Botcup
+1.2 Vision et Mission
+1.3 Origine et Historique
+1.4 Contexte et Objectifs
+1.5 Engagements et Valeurs
+1.6 Équipe et Implantation
+2. Caractéristiques du Produit
+2.1 Description Générale
+2.2 Composition et Fonctionnement
+2.3 Avantages Techniques
+2.4 Performances Sanitaires et Environnementales
+2.6 Différenciation et Innovation
+2.7 Personnalisation
+3. Applications et Cas d’Usage
+3.1 Utilisation par les Particuliers
+3.2 Applications dans l’Événementiel
+3.3 Utilisation dans le Milieu Scolaire
+3.4 Hôtellerie et Hébergements Collectifs
+3.5 Utilisation dans le Milieu Sportif
+3.6 Avantages pour Chaque Secteur
+4. Plateforme de Mutualisation
+4.1 Description Générale
+4.2 Objectifs de la Plateforme
+4.3 Fonctionnalités Clés
+4.4 Processus de Mutualisation
+4.5 Avantages pour les Utilisateurs
+4.6 Sécurité et Conformité
+4.7 Impact Environnemental
+5. Performances Environnementales et Sanitaires
+5.1 Engagements Environnementaux
+5.3 Performances Sanitaires
+5.4 Engagements Spécifiques
+7. Personnalisation et customisation
+7.1 Options de Personnalisation
+7.2 Bénéfices pour les Différents Utilisateurs
+7.3 Étapes pour Commander et Personnaliser
+8. Engagements Sociétaux
+8.1 Engagements Écologiques
+8.2 Engagements Sociaux
+8.3 Contribution à l’Économie Locale
+Site web
+Notre concept
+Qui somme nous
+Notre mission
+Innovation et savoir-faire
+Qu’est ce que la mutualisation
+Fiche technique sum up:
+FAQ
+Professionnel
+Particulier
+Présentation Botcup Canva
+Chatbot Botcup : arborescence 
+
+
+1. Question 1 : Êtes-vous un particulier ou un professionnel ?
+   * Réponse attendue : Particulier ou Professionnel.
+2. Si la réponse est "Professionnel", poser la question suivante 
+Dans quel secteur travaillez-vous ?
+Options de réponse :
+      1. Association sportive
+      2. Événementiel
+      3. Hébergement collectif
+      4. Événements grand public et festival
+      5. Entreprise
+      6. Autre
+3. Fournir la réponse adapté à la demande en prenant compte des questions antérieurs 
+
+
+
+
+
+
+________________
+
+
+1. Présentation Générale
+1.1 Description de Botcup
+Botcup est une solution innovante qui combine écologie, praticité, et économie circulaire. Elle repose sur deux piliers majeurs :
+* Un produit modulable : La Botcup, un contenant hybride entre un gobelet réutilisable ([CUP]) et une bouteille modulable ([BOT]), conçu pour répondre aux besoins des particuliers et des professionnels.
+* Un logiciel de mutualisation : Un outil numérique favorisant le partage et la gestion logistique de produits entre acteurs locaux.
+L’entreprise se distingue par une approche qui intègre des objectifs environnementaux, économiques, et sanitaires, en proposant des solutions adaptées aux usages collectifs et professionnels tout en réduisant l’impact environnemental des contenants à usage unique.
+________________
+
+
+1.2 Vision et Mission
+* Vision : Transformer les pratiques de consommation en milieu collectif en promouvant des solutions durables, pratiques, et respectueuses de l’environnement.
+* Mission : Fournir des alternatives réutilisables aux contenants jetables et permettre une économie circulaire en facilitant l’accès à des produits et services mutualisés. L’objectif ultime est de réduire les déchets plastiques et de contribuer à une transition écologique dans les secteurs professionnels et événementiels.
+________________
+
+
+1.3 Origine et Historique
+* Genèse du projet :
+   * Botcup est née d’un constat : l’absence de solutions réutilisables adaptées aux besoins des secteurs collectifs (hôtellerie, événementiel, éducation, etc.). Les solutions existantes, comme les gourdes ou les gobelets réutilisables classiques, posaient des problèmes de nettoyage, de logistique, et d’économie.
+   * L’idée a émergé de l’expérience de Jules Colin, fondateur de l’entreprise, dans le domaine de l’événementiel et de l’accueil collectif, où il a identifié un besoin urgent de solutions pratiques et écologiques.
+* Valeurs fondatrices :
+   * Écoresponsabilité.
+   * Innovation.
+   * Collaboration et économie locale.
+________________
+
+
+1.4 Contexte et Objectifs
+* Problème identifié :
+   * Chaque année, des millions de gobelets et bouteilles plastiques à usage unique sont utilisés, générant des tonnes de déchets difficiles à recycler. De plus, les solutions réutilisables actuelles ne répondent pas aux exigences des usages collectifs (hygiène, logistique, coûts).
+* Objectifs de Botcup :
+   * Proposer une solution adaptée aux besoins spécifiques des secteurs collectifs.
+   * Permettre une transition écologique tout en répondant aux exigences économiques et sanitaires.
+   * Créer une dynamique d’économie circulaire via la mutualisation.
+________________
+
+
+1.5 Engagements et Valeurs
+* Engagement écologique :
+   * La Botcup est fabriquée à partir de polypropylène, un matériau choisi pour ses performances environnementales (réutilisation, recyclabilité) et sa durabilité.
+   * L’entreprise adopte une politique de production raisonnée et sur commande pour éviter les surplus et réduire l’impact carbone.
+* Engagement social :
+   * Collaboration avec des ESAT (Établissements et Services d'Aide par le Travail) pour les opérations de nettoyage, favorisant l’insertion professionnelle.
+   * Promotion des circuits courts pour soutenir l’économie locale.
+* Engagement économique :
+   * Offrir des solutions modulables, accessibles en termes de coûts, et adaptées à des usages variés.
+   * Faciliter l’accès à des produits mutualisables via la plateforme numérique.
+________________
+
+
+1.6 Équipe et Implantation
+* Fondateur : Jules Colin, entrepreneur engagé, titulaire d’un Master en Management de Projets et fort d’une expérience dans le secteur événementiel et culturel.
+* Implantation :
+   * Siège social à Remiremont, dans la région Grand Est, une localisation stratégique pour maximiser l’impact local et européen.
+________________
+
+
+2. Caractéristiques du Produit
+2.1 Description Générale
+La Botcup® est une solution innovante qui combine un gobelet réutilisable (CUP) et une bouteille modulable (BOT) pour répondre aux besoins des particuliers et des professionnels. Conçue pour s'adapter à divers usages collectifs et individuels, elle est pratique, hygiénique, durable et écoresponsable.
+* CUP : Gobelet réutilisable de haute qualité.
+* BOT : Partie supérieure vissable qui transforme le gobelet en bouteille.
+* Botcup intégrale : Assemblage des deux composants, offrant un produit unique adapté à des usages variés.
+________________
+
+
+2.2 Composition et Fonctionnement
+* Modularité :
+   * Le [CUP] peut être utilisé seul en tant que gobelet.
+   * Le [BOT] s’adapte à tous les gobelets de la gamme pour les transformer en bouteilles.
+   * L’ensemble est compatible avec d’autres formats de gobelets déjà en circulation.
+* Matériaux :
+   * Fabriqué en polypropylène (PP), un matériau choisi pour sa robustesse, sa légèreté, et son faible impact environnemental.
+   * Recyclable et conforme aux normes alimentaires strictes.
+* Caractéristiques techniques :
+   * Étanchéité : Triple filetage pour éviter les fuites.
+   * Personnalisation : Large choix de coloris, possibilité d’ajouter des logos ou des designs sur le [CUP] ou le [BOT].
+   * Résistance : Conçu pour résister à des températures élevées (compatible avec le lave-vaisselle).
+________________
+
+
+2.3 Avantages Techniques
+1. Empilabilité :
+   * Les gobelets et les parties supérieures sont empilables, ce qui réduit l’espace nécessaire pour le stockage et le transport.
+2. Facilité de Nettoyage :
+   * La Botcup est conçue pour se démonter entièrement, garantissant un nettoyage facile et optimal dans les lave-vaisselles industriels ou domestiques.
+3. Durabilité :
+   * Réutilisable sur des centaines de cycles sans altération des performances.
+4. Transport Optimisé :
+   * Léger et peu encombrant, il minimise les coûts et l’impact environnemental des déplacements logistiques.
+________________
+
+
+2.4 Performances Sanitaires et Environnementales
+* Hygiène :
+   * Matériaux conformes aux normes sanitaires (, ISO 9001).
+   * Conception pensée pour un nettoyage complet, éliminant tout résidu potentiel.
+* Impact Environnemental :
+   * Remplacement des gobelets et bouteilles jetables, réduisant les déchets plastiques.
+   * Utilisation de matériaux à faible empreinte carbone.
+   * Engagement à revaloriser les produits en fin de vie via des circuits de recyclage.
+________________
+
+
+2.6 Différenciation et Innovation
+La Botcup® se distingue par son approche modulaire et ses caractéristiques multifonctionnelles :
+* Contrairement aux gourdes classiques, elle est conçue pour être partagée et réutilisée en milieu collectif.
+* Par rapport aux gobelets réutilisables classiques, elle apporte une polyvalence unique grâce à sa transformation en bouteille.
+________________
+
+
+2.7 Personnalisation
+* Options disponibles :
+   * Formats : [CUP] en 25 cl, 33 cl et 50 cl, avec un [BOT] compatible pour chaque taille.
+   * Coloris variés pour s’adapter à des identités visuelles spécifiques.
+   * Impression de logos ou de slogans pour des campagnes de communication responsables.
+________________
+
+
+3. Applications et Cas d’Usage
+3.1 Utilisation par les Particuliers
+La Botcup® est une solution pratique et écologique pour les individus dans leur quotidien. Elle s'adapte à une variété de situations :
+* Usage à domicile :
+   * Utilisation comme gobelet pour les boissons froides ou chaudes.
+   * Transformation en bouteille pour les déplacements ou activités prolongées.
+* Déplacements et loisirs :
+   * Idéale pour les sorties, les pique-niques ou les activités sportives grâce à sa modularité et sa légèreté.
+   * Compatible avec les fontaines à eau ou les stations de remplissage.
+* Personnalisation :
+   * Les particuliers peuvent choisir leur propre combinaison de couleurs et designs, ce qui en fait un accessoire unique et personnalisé.
+________________
+
+
+3.2 Applications dans l’Événementiel
+La Botcup® est particulièrement adaptée au secteur événementiel, où les contenants jetables sont encore largement utilisés :
+* Festivals et concerts :
+   * Utilisation de la [CUP] aux buvettes pour les boissons.
+   * Les participants peuvent acheter la partie [BOT] pour transformer leur gobelet en bouteille, facilitant ainsi l’accès aux stations de remplissage d’eau.
+* Séminaires et conférences :
+   * Offerte comme goodies personnalisés avec le logo de l’événement ou des partenaires.
+   * Réduction des déchets plastiques jetables, conforme aux engagements RSE des organisateurs.
+* Événements sportifs :
+   * Distribution à des équipes ou spectateurs.
+   * Réutilisable pour les différentes éditions, réduisant les coûts logistiques et environnementaux.
+________________
+
+
+3.3 Utilisation dans le Milieu Scolaire
+La Botcup® répond aux besoins éducatifs et logistiques des établissements scolaires :
+* Pour les élèves :
+   * La [CUP] peut être attribuée à chaque élève pour un usage quotidien.
+   * Les [BOT] peuvent être utilisés ponctuellement pour des sorties scolaires ou des activités sportives, puis récupérés pour un nettoyage et un stockage centralisé.
+* Sensibilisation au développement durable :
+   * La Botcup peut être intégrée dans les programmes pédagogiques pour promouvoir des comportements responsables.
+* Facilité de gestion pour les établissements :
+   * Nettoyage facilité par les lave-vaisselles industriels des cantines.
+   * Réduction des coûts liés aux contenants jetables.
+________________
+
+
+3.4 Hôtellerie et Hébergements Collectifs
+La Botcup® est idéale pour les hôtels, auberges, et autres structures d’accueil collectif :
+* Service pour les clients :
+   * Fournie comme équipement lors du séjour, permettant aux clients d’éviter les contenants jetables.
+   * Possibilité de consigne pour inciter au retour des produits.
+* Gestion simplifiée :
+   * Nettoyage automatisé et rapide dans les cuisines professionnelles.
+   * Réduction des déchets dans les zones de restauration et de service.
+* Renforcement de l’image de marque :
+   * Les établissements peuvent personnaliser les Botcups avec leur logo, véhiculant une image écologique et moderne.
+________________
+
+
+3.5 Utilisation dans le Milieu Sportif
+Les clubs sportifs, associations et événements liés au sport trouvent de nombreux avantages avec la Botcup® :
+* Pour les équipes :
+   * Chaque joueur peut recevoir une Botcup personnalisée (nom ou numéro).
+   * Réduction des risques sanitaires grâce à une utilisation individuelle.
+* Gestion par les clubs :
+   * Les Botcups peuvent être récupérées après utilisation, nettoyées et remises à disposition.
+   * Réduction des coûts liés aux bouteilles plastiques jetables.
+________________
+
+
+
+
+3.6 Avantages pour Chaque Secteur
+* Particuliers :
+   * Produit pratique, durable, et personnalisable.
+   * Réduction de l’impact environnemental au quotidien.
+* Événementiel :
+   * Solution économique et écologique, répondant aux exigences des régulations environnementales.
+   * Renforce l’engagement RSE des organisateurs.
+* Écoles :
+   * Sensibilisation des élèves à l’écoresponsabilité.
+   * Réduction des coûts logistiques et des déchets.
+* Hôtellerie :
+   * Amélioration de l’expérience client avec des services écoresponsables.
+   * Réduction des déchets et optimisation des coûts.
+* Sport :
+   * Amélioration des pratiques sanitaires et écologiques.
+   * Réduction des déchets plastiques liés aux bouteilles jetables.
+________________
+
+
+4. Logiciel de Mutualisation
+4.1 Description Générale
+Le logiciel de mutualisation Le Matériel Partagé est un outil numérique innovant conçu pour faciliter le partage, la gestion et la logistique de matériels entre différents acteurs locaux. Il s’inscrit dans une démarche de facilitation et d’économie circulaire.
+________________
+
+
+4.2 Objectifs de LMP
+* Optimisation des ressources : Éviter la production et l’achat excessifs de produits en mutualisant votre matériel.
+* Réduction des coûts : Rentabiliser votre matériel et réduire les coûts liés à l’achat ou la location.
+* Facilitation de la logistique : Centraliser la gestion des produits pour vous simplifier la vie. 
+* Gain de temps : Éviter les tâches chronophages, LMP les fait pour vous.
+________________
+
+
+* Pour plus d’infos, aller sur https://www.lematerielpartage.fr
+
+
+________________
+
+
+5. Performances Environnementales et Sanitaires
+5.1 Engagements Environnementaux
+Botcup® intègre l’écoresponsabilité au cœur de son modèle en proposant un produit et un service qui réduisent considérablement l’impact environnemental des contenants jetables.
+* Matériaux responsables :
+   * Le choix du polypropylène (PP) repose sur des critères stricts : faible empreinte carbone, durabilité, et recyclabilité.
+   * Performance environnementale supérieure aux alternatives comme le plastique jetable, le verre ou le métal dans un contexte collectif​.
+* Réduction des déchets :
+   * La Botcup est conçue pour remplacer les gobelets et bouteilles plastiques jetables dans les environnements professionnels et collectifs.
+   * Les contenants sont réutilisables sur des centaines de cycles, éliminant ainsi la nécessité de produire en masse des produits à usage unique.
+________________
+
+
+
+
+5.3 Performances Sanitaires
+La Botcup® est conçue pour respecter les normes sanitaires les plus strictes, ce qui la rend parfaitement adaptée à un usage collectif.
+* Normes et certifications :
+   * Conformité aux normes alimentaires européennes, notamment  ISO 9001.
+   * Garantie de non-toxicité grâce à des matériaux sans BPA ni perturbateurs endocriniens.
+* Facilité de nettoyage :
+   * Design pensé pour un démontage complet, permettant un lavage optimal dans les lave-vaisselles industriels ou domestiques.
+   * Résistance aux hautes températures pour garantir une hygiène parfaite.
+* Usage sécurisé :
+   * Étanchéité assurée par un triple filetage.
+   * Résistance aux chocs, évitant tout risque de casse ou de contamination.
+________________
+
+
+
+
+5.4 Engagements Spécifiques
+1. Lutte contre le jetable :
+   * Adoption du principe : « Le meilleur déchet est celui qui n’existe pas ».
+   * Remplacement progressif des contenants jetables dans des secteurs où leur usage est encore prédominant (événementiel, hôtellerie, écoles).
+2. Sensibilisation à l’écoresponsabilité :
+   * Collaboration avec les entreprises et collectivités pour promouvoir des pratiques durables via des ateliers ou des démonstrations.
+   * Communication active sur l’impact environnemental des produits jetables.
+3. Optimisation logistique :
+   * Réduction des émissions liées au transport grâce à des produits empilables et légers.
+   * Priorisation des circuits courts pour limiter les trajets inutiles.
+________________
+
+
+7. Personnalisation et customisation
+7.1 Options de Personnalisation
+Botcup® offre une large gamme de personnalisation pour répondre aux besoins des entreprises, collectivités, et organisateurs d’événements.
+Personnalisation Visuelle
+* Couleurs :
+   * Disponibilité de plusieurs coloris pour le [CUP] et le [BOT], permettant de refléter une charte graphique ou un thème particulier.
+* Logos et marquages :
+   * Impression durable intégrée grâce à la technologie IML (In-Mold Labeling), qui garantit que les logos ou designs ne s’effacent pas avec le temps.
+   * Positionnement sur le corps du gobelet, le bouchon, ou la partie supérieure.
+* Éditions spéciales :
+   * Conception de séries limitées pour des événements ou des campagnes de communication spécifiques.
+Personnalisation Technique
+* Formats sur mesure :
+   * Combinaisons possibles entre différents volumes de [CUP] ( 33cl, 45cl, 50cl) et [BOT].
+* Accessoires additionnels :
+   * Ajout d’un imperdable pour le bouchon.
+   * Impression ou inscriptions spécifiques (numéros, noms).
+
+
+________________
+
+
+7.2 Bénéfices pour les Différents Utilisateurs
+1. Particuliers :
+   * Accès à un produit personnalisable et durable pour un coût compétitif.
+   * Possibilité d’acheter un produit unique et esthétique qui reflète leurs goûts personnels.
+2. Professionnels :
+   * Opportunité de renforcer leur image de marque via des produits personnalisés et écoresponsables.
+   * Réduction des coûts unitaires pour des commandes en gros ou via la mutualisation.
+3. Organisateurs d’Événements :
+   * Création de produits promotionnels ou souvenirs pour les participants.
+   * Intégration d’une solution consignée pour limiter les déchets et réduire les coûts opérationnels.
+________________
+
+
+7.3 Étapes pour Commander et Personnaliser
+1. Prise de contact :
+   * Les particuliers peuvent commander via le site internet ou des revendeurs partenaires.
+   * Les professionnels peuvent demander un devis personnalisé pour des commandes en volume.
+2. Choix des options :
+   * Sélection des formats, couleurs, et personnalisations visuelles ou techniques.
+3. Validation et production :
+   * Validation finale des designs.
+   * Production sur commande pour garantir une qualité optimale
+8. Engagements Sociétaux
+8.1 Engagements Écologiques
+Botcup® place la durabilité et la responsabilité environnementale au centre de ses actions. L’objectif est de réduire l’impact écologique des contenants à usage unique et d’encourager une consommation responsable.
+1. Réduction des Déchets :
+   * Botcup remplace les gobelets et bouteilles jetables par une solution réutilisable, durable et modulable.
+   * Adoption d’une politique de production raisonnée : fabrication uniquement sur commande pour éviter la surproduction.
+2. Conception Écoresponsable :
+   * Matériaux soigneusement sélectionnés : polypropylène, un plastique recyclable et durable, optimisé pour des usages prolongés.
+   * Politique d’emballage minimaliste et recours à des circuits courts pour limiter l’empreinte carbone.
+3. Plateforme de Mutualisation :
+   * Solution pour maximiser l’utilisation des ressources disponibles localement.
+   * Réduction des besoins de production grâce au partage et à l’emprunt de produits existants.
+________________
+
+
+8.2 Engagements Sociaux
+Botcup® contribue activement à l’insertion professionnelle et au développement des économies locales en intégrant des initiatives solidaires dans son modèle d’affaires.
+1. Partenariats avec des ESAT :
+   * Collaboration avec les Établissements et Services d’Aide par le Travail pour le nettoyage des produits après leur utilisation.
+   * Contribution à la réinsertion professionnelle de personnes en situation de handicap ou éloignées de l’emploi.
+2. Sensibilisation des Consommateurs :
+   * Promotion de l’économie circulaire auprès des entreprises, collectivités, et particuliers via des ateliers, démonstrations, et campagnes éducatives.
+   * Implication des utilisateurs dans une démarche collective pour réduire les déchets plastiques.
+________________
+
+
+8.3 Contribution à l’Économie Locale
+* Circuits courts :
+   * Mise en place d’un réseau local de production, nettoyage, et distribution pour limiter les distances parcourues par les produits.
+   * Priorité donnée aux acteurs locaux pour la sous-traitance, favorisant une économie régionale dynamique.
+* Renforcement des Écosystèmes Locaux :
+   * Par la mutualisation, les collectivités et entreprises peuvent partager leurs ressources disponibles, réduisant ainsi leurs dépenses et maximisant l’utilisation des produits.
+—------------------------------------------------------------------------------------------------------------------------------------------
+Site web
+Notre concept 
+Botcup® est une solution innovante et éco-conçue, combinant les fonctionnalités d'un gobelet et d'une gourde réutilisables. Fabriquée en France, elle s'adresse aussi bien aux professionnels qu'aux particuliers, offrant une alternative pratique et durable aux contenants jetables.
+Caractéristiques principales :
+* Modularité : La Botcup se compose de deux éléments principaux : le [CUP], disponible en différentes tailles (25cl, 33cl, 50cl), et le [BOT], qui transforme le gobelet en gourde. Cette conception modulaire permet une adaptation facile selon les besoins de l'utilisateur.
+* Personnalisation : Les utilisateurs peuvent choisir parmi une variété de couleurs et ajouter des logos ou des designs spécifiques grâce à la technologie IML (In-Mold Labeling), garantissant une impression durable et de qualité.
+* Praticité : La Botcup est conçue pour être légère, facile à transporter et équipée d'un système d'attache, permettant de l'accrocher aisément à un sac ou une ceinture. De plus, son ouverture centrale facilite le nettoyage, notamment en lave-vaisselle.
+* Empilabilité : Les gobelets sont empilables, optimisant ainsi le stockage et la logistique, particulièrement avantageux pour les événements de grande envergure.
+Engagements environnementaux :
+* Éco-conception : La Botcup est fabriquée en polypropylène, un matériau recyclable et durable, sélectionné pour sa faible empreinte carbone et sa résistance.
+* Production locale : La fabrication est réalisée en France, favorisant les circuits courts et réduisant l'empreinte carbone liée au transport.
+* Réduction des déchets : En proposant une alternative réutilisable aux gobelets et bouteilles jetables, Botcup contribue significativement à la diminution des déchets plastiques.
+Services associés :
+* Mutualisation : Botcup offre une plateforme de partage et de location de ses produits, permettant aux organisations de mutualiser les ressources et de réduire les coûts liés à l'achat de contenants.
+* Nettoyage : Des partenariats avec des ESAT (Établissements et Services d'Aide par le Travail) assurent le nettoyage professionnel des Botcups après utilisation, garantissant une hygiène irréprochable.
+Applications :
+* Événements : Idéale pour les festivals, concerts, salons et autres rassemblements, la Botcup offre une solution pratique et écologique pour la consommation de boissons.
+* Entreprises : Les organisations peuvent équiper leurs employés de Botcups personnalisées, renforçant ainsi leur engagement en faveur du développement durable.
+* Particuliers : Adaptée à un usage quotidien, en déplacement, au bureau ou lors d'activités de plein air, la Botcup répond aux besoins des consommateurs soucieux de leur impact environnemental.
+Qui somme nous 
+Botcup est une entreprise française dédiée à la transformation des habitudes de consommation dans les secteurs festifs, collectifs et chez les particuliers, en proposant des solutions pratiques, éco-conçues et fabriquées localement.
+
+
+Objectifs principaux :
+* Éliminer les produits jetables : Botcup vise à supprimer l'utilisation de contenants à usage unique et à freiner la surconsommation de produits réutilisables.
+ 
+* Promouvoir la mutualisation : L'entreprise encourage le partage et la réutilisation des ressources pour maximiser leur utilisation et réduire l'impact environnemental.
+ 
+Historique et développement :
+   * 2013-2020 : Expérience en tant qu'organisateur d'événements.
+ 
+   * 2019 : Conception de l'idée de la Botcup.
+ 
+   * 2020-2022 : Développement de 19 versions prototypes.
+ 
+   * 2022 : Premières commercialisations de la Botcup et tests du modèle événementiel.
+ 
+   * 2023 : Lancement de la version finale de la Botcup, établissement de partenariats clés et acquisition des 50 premiers clients, déploiement officiel de LMP (Le Matériel Partagé).
+ 
+Citation du fondateur :
+"Il est important de faire en sorte que le réutilisable ne devienne pas un déchet, lui-aussi."
+— Jules Colin, Fondateur de Botcup.
+Botcup s'engage à réinventer le quotidien avec conscience, en développant des produits conçus pour être partagés, réutilisés et transmis, afin de favoriser une cohabitation harmonieuse entre l'humain et la nature
+Notre mission 
+Botcup est une entreprise française engagée dans la promotion de solutions éco-responsables pour un futur durable. Leur mission se décline en plusieurs objectifs concrets :
+Réduire la surconsommation :
+      * Proposer des alternatives réutilisables pour diminuer drastiquement les déchets.
+      * Concevoir des produits BotCup durables, réparables et faciles d’entretien, garantissant une utilisation prolongée et un impact écologique réel.
+      * Optimiser le partage de ressources grâce à des parcs mutualisés spécialement conçus pour le secteur événementiel, contribuant ainsi à la réduction de l’empreinte carbone.
+S’inscrire dans une économie circulaire :
+      * Développer des modèles économiques basés sur la mutualisation et le partage des ressources, comme les parcs de gobelets BotCup, pour assurer une utilisation optimale et continue des produits.
+      * Minimiser la production de déchets et réduire l’impact carbone lié à la fabrication et au transport.
+      * Rendre les modèles économiquement viables et accessibles, favorisant un changement durable bénéfique pour les clients et l’environnement.
+Développer des solutions pratiques et simples à implanter :
+      * Concevoir des produits faciles à utiliser et à intégrer dans les activités des clients, qu’il s’agisse d’événements, d’entreprises ou d’institutions.
+      * Proposer des solutions pratiques et rapides à mettre en place, garantissant une transition fluide vers des alternatives plus durables.
+Démocratiser le partage et la mutualisation :
+      * Faciliter et encourager le partage de matériel entre divers acteurs, tels que les entreprises, les organisateurs d’événements ou les institutions.
+      * Mettre en place des stocks mutualisés de gobelets, répartis sur le territoire pour en maximiser l’accès.
+      * Autonomiser les partenaires grâce à un logiciel innovant, Le Matériel Partagé, permettant de mutualiser le matériel (mobilier, équipements techniques, vaisselle, etc.) de manière simple, efficace et économique.
+      * Réduire les coûts et limiter l’impact environnemental en optimisant l’utilisation des ressources.
+      * Rendre les solutions de partage responsables accessibles à tous, participant activement à une transition écologique à grande échelle.
+Ces engagements reflètent la volonté de Botcup de contribuer à un avenir plus durable en proposant des solutions innovantes et responsables.
+Innovation et savoir-faire 
+
+
+Botcup est une entreprise française qui place l'innovation au cœur de ses activités, en développant des produits éco-conçus pour être pratiques, durables, réparables, modulables et faciles à intégrer dans des activités professionnelles et le quotidien.
+Technologie et artisanat :
+Botcup combine technologie de pointe et savoir-faire artisanal pour créer des produits à la fois solides et élégants. Chaque Botcup et ses accessoires sont conçus avec une attention particulière à la qualité, la fonctionnalité et l'esthétique, reflétant la conviction que la durabilité ne doit pas être un compromis.
+Adaptabilité aux besoins :
+Que ce soit pour des particuliers ou des organisateurs d'événements, Botcup propose des solutions adaptées. L'entreprise est structurée pour répondre aux besoins variés, équipant des événements de toutes tailles avec des gobelets Botcup conçus pour offrir une expérience unique aux participants tout en adoptant un modèle durable. Grâce à des stocks mutualisés sur tout le territoire, Botcup est en mesure de fournir des produits en grandes quantités pour divers événements.
+Flexibilité sur-mesure :
+Botcup comprend que chaque client a des besoins spécifiques et a développé une approche flexible pour répondre à des demandes variées. Grâce à des partenaires de confiance, l'entreprise est capable de produire en grande quantité tout en offrant des solutions sur-mesure. L'objectif principal est de maximiser la réutilisation des produits, en s'assurant qu'ils sont esthétiques, fonctionnels et parfaitement adaptés aux attentes des clients et de leurs utilisateurs, tout en contribuant à réduire l'impact environnemental.
+En choisissant Botcup, les clients optent pour un partenaire capable de les accompagner dans leur démarche écoresponsable, quelle que soit l'échelle de leur projet.
+Qu’est ce que la mutualisation 
+La mutualisation est une pratique collaborative qui consiste à mettre en commun des ressources matérielles, facilitant leur réutilisation et leur accessibilité pour tous, tout en évitant que du matériel reste inutilisé.
+Avantages de la mutualisation :
+      * Réduction des dépenses : Le partage des frais liés à l'acquisition et à l'entretien du matériel permet de diminuer les coûts pour chaque participant.
+      * Création d'économies circulaires et locales : En favorisant le partage au sein d'une même zone géographique, la mutualisation stimule les échanges locaux et réduit l'empreinte carbone liée au transport de matériel.
+      * Renforcement des partenariats : La collaboration entre différentes structures autour du partage de ressources consolide les relations et encourage le développement de synergies bénéfiques à tous.
+      * Optimisation des ressources : Plutôt que de laisser du matériel inutilisé, la mutualisation assure une utilisation régulière des équipements, maximisant ainsi leur rentabilité et leur utilité.
+      * Accès à une grande diversité d'équipements : Le partage permet d'accéder à un éventail plus large de matériel spécialisé, améliorant la qualité des événements ou des projets entrepris.
+Pour faciliter cette démarche, Botcup a développé "Le Matériel Partagé" (LMP), une plateforme intuitive qui simplifie le partage et la mutualisation de matériel entre acteurs possédant des équipements.
+LMP vise à créer des liens intersectoriels (culture, sport, cinéma, associatif) et à rendre le matériel partagé accessible à tous les organisateurs d'événements et structures à travers la France.
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Fiche technique 
+
+
+Caractéristiques techniques :
+      * Hauteur totale d’impression 70mm à 360°
+      * Type d’impression :
+      * Tampographie : 1 ou 2 couleurs.
+      * Impression digitale : Quadrichromie.
+________________
+
+
+Conditionnements :
+      1. Carton :
+      * Dimensions : 400 x 300 x 300 mm.
+      * Capacité :
+      * 156 BOT/carton (protégées par housse PE).
+      * 187 CUP30/carton (protégées par housse PE).
+      * 99 CUP50/carton (protégées par housse PE)
+      * Fermeture : Carton scellé par adhésif, sans agrafes.
+      2. Palette :
+      * Dimensions : 800 x 1200 x 1800 mm.
+      * Capacité totale :
+      * 64 cartons/palette.
+      * Jusqu’à 4608 pièces/palette
+      * Jusqu’à 9216 pièces/palette 
+FAQ
+
+
+Professionnel 
+Où sont fabriquées les Botcup ?
+Nos produits sont fabriqués dans une usine partenaire localisée à Dreux et qui répond aux plus hautes normes alimentaires et d’hygiène.
+Quel est le délai d'expédition ?
+Notre produit est fait sur-mesure (couleur, personnalisation) et nous privilégions la production sur commande pour éviter les stocks et éviter la perte de matières premières. 
+Le délai de livraison de la Botcup varie de 2 à 6 semaines, selon la commande.
+Combien de temps peut-on garder la Botcup en bon état ?
+Prenez-en soin et nous vous garantissons une réutilisation de plusieurs années. Plus vous la réutilisez, plus vous la rendez responsable et moins vous créez de déchets. On vous le rappelle, c’est l’usage qui est important.
+La Botcup est-elle recyclable ?
+Oui, votre Botcup est 100% recyclable. Et pour s’assurer de sa bonne revalorisation, nous mettons en place des sessions gratuites de ramassage dans votre région afin de récupérer les produits usés ou abîmés. Ensuite nous laissons faire les pros du recyclage.
+En quels matériaux est la Botcup ?
+Après de longues études sur les matières et sur les usages, nous avons choisi d’utiliser le polypropylène. Cette matière fait partie de la famille des thermoplastiques, elle est 100% recyclable et peut être recyclée environ 7 fois avant d’atteindre sa fin de vie.
+Nous vous rappelons qu’à l’échelle industrielle aucune matière n’est parfaite. C’est l’usage qui est important. C’est pourquoi vous avez le pouvoir de rendre les choses respectueuses et responsables en réutilisant, en évitant de collectionner les produits et en évitant d’en faire reproduire. C’est pourquoi nous avons développé une plateforme afin de vous aider à mutualiser nos produits avec les acteurs de votre territoire.
+Pourquoi avoir choisi ce matériau plutôt qu’un autre ?
+Nous avons longuement étudié les matières et les usages pour faire notre choix. Nous avons pris en compte plusieurs critères environnementaux et des critères d’usage (Vous pouvez retrouver la synthèse dans l’article de blog : ici). 
+Pour vulgariser notre réflexion : aucune matière n’est idéale à l’échelle industrielle. L’usage a beaucoup plus d’impact positif sur l’environnement. Il est donc surtout important de réutiliser et d’éviter de reproduire inutilement. 
+Pensez donc à utiliser notre plateforme de mutualisation pour palier à des besoins ponctuels. 
+Pourquoi avoir choisi ces deux types de formats ?
+Pour nos parties [Cup], nous avons choisi d’utiliser les formats 25-33cl et 50cl car ce sont les deux formats les plus utilisés. Ils permettent également de former des Botcup aux formats très répandus : 65 et 85cl
+Suis-je obligé de personnaliser entièrement la Botcup ?
+Pas du tout, vous pouvez choisir la Botcup dont vous rêvez. Elle peut être vierge, personnalisée sur la [Cup] uniquement, sur la [Bot] uniquement, ou sur les deux parties.
+Puis-je utiliser le lave-vaisselle pour ma Botcup ?
+La Botcup a été pensée et conçue pour l’utilisation en grand nombre. Sa conception en deux parties, vous permet de la nettoyer très facilement et intégralement en lave-vaisselle.
+Quelle est la quantité minimale de commande ?
+La Botcup est avant tout conçue pour répondre à des besoins professionnels. Aussi, pour éviter toute dérive polluante sur un marché où de nombreuses gourdes personnelles existent, nous avons limité à un minimum de commande de 50 produits.
+Si votre projet nécessite vraiment nos produits, mais pour un volume inférieur, il y a bien entendu toujours des solutions. Prenez directement contact avec un membre de l’équipe via le formulaire contact.
+La Bot s'applique-t-elle sur les deux formats de gobelets proposés ?
+Oui. L’éco-conception de la Botcup permet une compatibilité entre la [Bot] et toutes les [Cup] pour réduire toujours plus la multiplicité de produits et ainsi préserver les matières.
+Particulier
+Pourquoi choisir la Botcup au lieu d'une gourde traditionnelle ?
+La Botcup, c'est une solution 2 en 1 : un gobelet qui peut se transformer en gourde modulable, customisable, lavable, polyvalente, et transformable. C’est bien plus qu’une gourde, c’est une Botcup !
+La Botcup est-elle facile à nettoyer ?
+Absolument. La Botcup se divise en deux parties, permettant un nettoyage optimal à la main ou au lave-vaisselle, finis les mauvaises odeurs de gourdes !
+Que faire si une pièce de ma Botcup se casse ?
+Toutes les pièces de la Botcup sont interchangeables et remplaçables. Si une pièce se casse, il suffit de ne racheter que celle-ci.
+Puis-je mettre du chaud dans ma Botcup ?
+Envie d'un bon café ou d'un thé bien chaud ? Aucun souci, vous pouvez boire vos boissons jusqu'à 100°C dans la partie "cup" de la Botcup ! Par contre, attention, ce n'est pas une gourde isotherme. Pour garder le filetage au top et l'étanchéité, on vous déconseille d'y verser des boissons chaudes quand elle est en mode "Botcup".
+J'ai l'impression que ma Botcup fuit, que faire ?
+S’il vous semble que votre Botcup fuit, c’est très probablement que la BOT n’est pas correctement vissée. Veillez à bien vérifier qu’elle n’est pas de travers. Il ne doit y avoir aucune résistance lors du vissage. En fin de course, veillez à bien la serrer pour comprimer le joint.
+PS : Lors d'un vissage, il se peut que quelques gouttes soient restées dans le filetage et ressortent au serrage → Ce n’est pas une fuite !
+En quoi la Botcup est-elle écoresponsable ?
+Entièrement éco-conçue avec Amulis dans des cabinets spécialisés, la Botcup est fabriquée à partir de matériaux solides comme le polypropylène pour supporter toutes les aventures ! On l’a imaginée pour qu’elle dure longtemps, avec un impact environnemental minimal. En fin de vie ? Pas de souci, elle sera entièrement revalorisée. Et le top : elle reste prête à être réutilisée encore et encore.
+Pour plus de détails, vous pouvez consulter la page du Pack de Démarrage sur le site de Botcup
+Personnalisation :
+Puis-je choisir un design unique pour mon événement ?
+Oui, vous pouvez personnaliser la Botcup avec un design unique pour votre événement. Vous pouvez choisir les couleurs, les zones à personnaliser (CUP, BOT ou les deux), et ajouter des logos ou des motifs spécifiques. Les impressions sont réalisées en tampographie (1 ou 2 couleurs) ou en impression digitale (quadrichromie), garantissant une excellente qualité.
+Quels types de logos sont acceptés pour l’impression ?
+La Botcup accepte des fichiers de logos en haute résolution, généralement au format vectoriel (AI, EPS, ou PDF). Cela garantit une impression nette et précise. Pour l’impression digitale, des designs plus complexes ou multicolores sont également possibles.
+________________
+
+
+Utilisation et Nettoyage :
+Botcup est-elle compatible avec des systèmes de consigne ?
+Oui, la Botcup est parfaitement compatible avec des systèmes de consigne. Elle a été conçue pour un usage collectif et professionnel, souvent utilisé dans des événements ou par des structures qui souhaitent adopter des pratiques durables. Les systèmes de consigne peuvent facilement intégrer les Botcups grâce à leur conception durable et réutilisable. De plus, des services de nettoyage associés peuvent être proposés pour simplifier la gestion logistique après usage.
+
+
+Présentation Botcup : Analyse de l’impact dans le secteur événementiel comparativement à un gobelet réutilisable traditionnel
+
+
+Problématique et Solution
+      * Problématique : Les gobelets réutilisables classiques quittent les circuits, sont sous-utilisés, et entraînent des impacts environnementaux évitables.
+      * Solution : La Botcup offre une approche innovante :
+      * Transformation en gourde grâce à la BOT.
+      * Gobelet sécurisé, fermé, attachable, et modulable.
+________________
+
+
+Points forts de Botcup
+      1. Expérience utilisateur :
+      * Contenant sécurisé.
+      * Fermé et accrochable.
+      * Transformable en gourde pour une meilleure praticité.
+      2. Impact environnemental :
+      * Durée de vie prolongée (multipliée par 10 avec la BOT).
+      * Mutualisation de 90% de la production.
+      3. Rentabilité pour les organisateurs :
+      * Commissions reversées sur les ventes de BOT.
+________________
+
+
+Comparatifs avec les gobelets traditionnels
+      1. Valeur ajoutée :
+      * Contenant 2-en-1 (gobelet + gourde).
+      * Accès facilité à l’eau.
+      * Gobelet fermé et sécurisé, pratique pour les événements.
+      2. Impact environnemental :
+      * Les gobelets traditionnels ont un faible taux de réutilisation (<7% après l'événement).
+      * Botcup est réutilisée jusqu’à 50 fois en post-événement, réduisant drastiquement son impact écologique.
+      3. Durée de vie :
+      * Les gobelets traditionnels ont une durée de vie limitée aux événements.
+      * Avec la BOT, la durée de vie est multipliée par 10 grâce à une utilisation prolongée comme gourde.
+      4. Relation avec les organisateurs :
+      * Botcup établit des relations partenaires gagnant-gagnant avec des commissions solidaires sur les ventes de BOT.
+      * Partage des consignes pour réduire les coûts et améliorer la logistique.
+________________
+
+
+Études d’impact environnemental
+      * Analyse de Cycle de Vie (ACV) réalisée avec le cabinet AMULIS, financée par l’ADEME.
+      * Cas d’études :
+      * 1 réutilisation : Impact supérieur pour la Botcup comparé au gobelet.
+      * 2 réutilisations : Point de bascule où l’impact de la Botcup devient inférieur à celui du gobelet.
+      * 10 à 50 réutilisations : Impact de la Botcup réduit jusqu’à 5% de celui d’un gobelet traditionnel.
+________________
+
+
+Modèle économique
+      * Mutualisation comme objectif principal : 90% de la production de Botcup est destinée à la mutualisation.
+      * Réduction des coûts pour les organisateurs :
+      * Commissions sur les ventes.
+      * Diminution de la production massive et personnalisée non nécessaire.
+________________
+
+
+Impacts mesurés
+      * Taux de réutilisation élevé :
+      * 78% des Botcups rapportées lors d’événements ultérieurs.
+      * La vocation de la BOT permet d’atteindre un impact environnemental vertueux en multipliant les usages.
+      * Impact écologique réduit :
+      * Même avec un taux de retour de 85%, la Botcup atteint une rentabilité écologique supérieure au gobelet dès 7 réutilisations.
+________________
+
+
+Conclusion
+      * La réutilisation accrue grâce à la BOT réduit drastiquement l’impact des gobelets réutilisables classiques.
+      * Botcup combine écologie, praticité, et rentabilité pour les organisateurs tout en offrant une meilleure expérience aux utilisateurs.

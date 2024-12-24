@@ -3,6 +3,8 @@ const cors = require("cors");
 const { getOpenAIResponse } = require("./apitest");
 const { AzureOpenAI } = require("openai");
 const dotenv = require("dotenv");
+const fs = require("fs"); // Add this line to require the fs module
+
 dotenv.config();
 
 const app = express();
@@ -20,22 +22,36 @@ const client = new AzureOpenAI({ endpoint, apiKey, apiVersion, deployment });
 
 app.post("/api/message", async (req, res) => {
   try {
-    const { message } = req.body;
-    console.log("Received message:", message);
+    const { message, threadId, assistantId } = req.body;
+    console.log("Received message:", message , threadId ,assistantId);
 
-    // Step 1: Create an Assistant
-    const assistant = await client.beta.assistants.create({
-      name: "Math ",
-      instructions:
-        "You are a personal math tutor. Write and run code to answer math questions.",
-      tools: [{ type: "code_interpreter" }],
-      model: deployment,
-    });
-    console.log("Assistant created:", assistant);
+    let assistant, thread;
 
-    // Step 2: Create a Thread
-    const thread = await client.beta.threads.create();
-    console.log("Thread created:", thread);
+    if (assistantId && threadId) {
+      // Reuse existing assistant and thread
+      assistant = { id: assistantId };
+      thread = { id: threadId };
+      console.log("Reusing assistant and thread:", assistantId, threadId);
+    } else {
+      // Step 1: Create an Assistant
+      assistant = await client.beta.assistants.create({
+        name: "ChatBotAi",
+        instructions:
+          "You are here to help the user . write short and precise responses. speak french",
+        model: deployment,
+        tools: [{ type: "file_search" }],
+        tool_resources: {
+          "file_search": {
+            "vector_store_ids": ["vs_w3qNt02S2n8zRTSCijOzGovJ"]
+          }
+        }
+      });
+      
+        
+      // Step 2: Create a Thread
+      thread = await client.beta.threads.create();
+      console.log("Thread created:", thread);
+    }
 
     // Step 3: Add a Message to the Thread
     const userMessage = await client.beta.threads.messages.create(thread.id, {
@@ -48,7 +64,6 @@ app.post("/api/message", async (req, res) => {
     console.log("Starting assistant run...");
     let run = await client.beta.threads.runs.createAndPoll(thread.id, {
       assistant_id: assistant.id,
-      instructions: "help him",
     });
     console.log("Run created:", run);
 
@@ -56,14 +71,15 @@ app.post("/api/message", async (req, res) => {
     if (run.status === "completed") {
       console.log("Fetching messages...");
       const messages = await client.beta.threads.messages.list(thread.id);
-      const responseMessage = messages.data
-        .filter((msg) => msg.role === "assistant") // Filter only AI responses
-        .map((msg) => msg.content[0].text.value)
-        .join(" "); // Join the messages into a single string
+      messages.data.reverse();
+
+      const responseMessage = messages.data[messages.data.length - 1]?.content[0].text.value;
 
       res.status(200).json({
         success: true,
         message: responseMessage,
+        threadId: thread.id,
+        assistantId: assistant.id,
       });
     } else {
       console.log("Run status:", run.status);
