@@ -47,7 +47,7 @@ const handleMessage = async (req, res) => {
         tools: [{ type: "file_search" }],
         tool_resources: {
           "file_search": {
-            "vector_store_ids": ["vs_w3qNt02S2n8zRTSCijOzGovJ"]
+            "vector_store_ids": ["vs_iVPJ9Btct2ctOrzgT9JGCJi9"]
           }
         }
       });
