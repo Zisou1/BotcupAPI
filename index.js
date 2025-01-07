@@ -34,7 +34,7 @@ async function createDraft(formData, responseMessage) {
 
     const utf8Subject = `=?utf-8?B?${Buffer.from('L\'équipe Botcup à votre écoute').toString('base64')}?=`;
     const messageParts = [
-      'From: "Botcup Support" <zakaria.ouldhamouda.dz@gmail.com>',
+      'From: "Botcup Support" <contact@botcup.fr>',
       `To: ${formData.mail}`, // Properly formatted To header
       'Content-Type: text/html; charset=utf-8',
       'MIME-Version: 1.0',
@@ -97,8 +97,15 @@ console.log("Client:", deployment);
     // Step 1: Create a new Assistant with File Search Enabled
     const assistant = await client.beta.assistants.create({
       name: "SAV Helper Assistant",
-      instructions: "You are an  Service client of botcup act as you are answering peopls incquiries . You can use the file search tool to find relevant information in the knowledge base related to SAV, including troubleshooting, providing solutions, and answering questions in French .",
-      model:deployment,
+      instructions: `You are a professional Customer Service Representative at Botcup. Your role is to:
+        - Provide accurate solutions based on the knowledge base
+        - Maintain a friendly, professional tone
+        - Always respond in French
+        - Use first-person perspective ("I", "we") as a Botcup representative
+        - Reference only information found in the knowledge base
+        - Never redirect customers to customer service
+        - Provide specific, actionable solutions`,
+      model: deployment,
       tools: [{ type: "file_search" }],
       tool_resources: {
         "file_search": {
@@ -109,19 +116,37 @@ console.log("Client:", deployment);
     thread = await client.beta.threads.create();
       console.log("Thread created:", thread);
     // Step 2: Create a prompt to find a solution for the issue
-    const prompt = `The client has provided the following information:
-    Name: ${formData.name}
-    surname: ${formData.surname}
-    Number: ${formData.phone}
-    mail: ${formData.mail}
-    sujet: ${formData.subject}
-    Text: ${formData.message}
+    const prompt = `Context: You are responding as a Botcup Customer Service Representative to a client inquiry.
 
-    Based on this information and the information of the file provide a detailed solution for the issue described in the text. Do not include any greetings or closing phrases. Do not write the object. Add some emojis to make it more friendly and human-like. Don't use bullet points, write using paragraphs. Don't say contact service client because you are service client. `;
+    Client Information:
+    Nom: ${formData.name}
+    Prénom: ${formData.surname}
+    Téléphone: ${formData.phone}
+    Email: ${formData.mail}
+    Sujet: ${formData.subject}
+    Message: ${formData.message}
+
+    Instructions de réponse:
+    1. Commencer par une phrase d'empathie comme:
+       "Nous sommes désolés d'apprendre que vous rencontrez des difficultés avec notre produit. Je comprends votre frustration et je vais vous aider à résoudre ce problème."
+    2. Utiliser les informations de notre base de connaissances pour répondre
+    3. Adopter un ton professionnel mais chaleureux
+    4. Inclure des émojis appropriés (2-3 maximum)
+    5. Structurer la réponse en paragraphes clairs
+    6. Fournir des solutions concrètes et applicables
+    7. Ne pas utiliser de formules de conclusion
+    8. Ne jamais rediriger vers le service client
+
+    FORMAT DE RÉPONSE SOUHAITÉ:
+    - Phrase d'empathie en ouverture
+    - Solution détaillée basée sur les informations disponibles
+    - Étapes concrètes si nécessaire
+    - Ton rassurant et professionnel
+    - Réponse directe au problème soulevé`;
 
     const userMessage = await client.beta.threads.messages.create(thread.id, {
       role: "user",
-      content: prompt,
+      content: prompt
     });
 
 console.log("Response:", userMessage);
