@@ -5,10 +5,7 @@ const { AzureOpenAI } = require("openai");
 const { handleMessage } = require("./AiAssistant");
 const { google } = require('googleapis');
 const { handleSav } = require("./savAssistant");
-const endpoint = process.env.AZURE_OPENAI_ENDPOINT;
-const apiKey = process.env.AZURE_OPENAI_API_KEY;
-const apiVersion = process.env.API_VERSION;
-const deployment = process.env.DEPLOYMENT;
+
 const app = express();
 const port = 3000;
 
