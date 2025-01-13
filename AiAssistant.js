@@ -63,7 +63,6 @@ const handleMessage = async (req, res) => {
       content: message,
     });
     console.log("Message added:", userMessage);
-    console.time("AssistantRunTime");
 
     // Step 4: Run the Assistant
     console.log("Starting assistant run...");
@@ -92,7 +91,11 @@ const handleMessage = async (req, res) => {
     if (run.status === "completed") {
 
       console.log("Fetching messages...");
+      console.time("AssistantRunTime");
+
       const messages = await client.beta.threads.messages.list(thread.id);
+      console.timeEnd("AssistantRunTime");
+
       messages.data.reverse();
 
       const responseMessage = cleanResponseMessage(messages.data[messages.data.length - 1]?.content[0].text.value);
@@ -104,7 +107,6 @@ const handleMessage = async (req, res) => {
         assistantId: assistant.id,
       });
 
-      console.timeEnd("AssistantRunTime");
 
     } else {
       console.log("Run not completed");
