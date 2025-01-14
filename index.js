@@ -37,7 +37,9 @@ const addToQueue = (handler) => (req, res) => {
 app.post("/api/message", handleMessage); // Use the handler with queue
 
 app.post("/sav", addToQueue(handleSav)); // Use the handler with queue
-
+app.get("/", (req, res) => {
+  res.send("Hello World");
+});
 app.listen(port, async () => {
   console.log(`API is running on http://localhost:${port}`);
 });
