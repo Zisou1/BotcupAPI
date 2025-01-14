@@ -9,7 +9,14 @@ const { handleSav } = require("./savAssistant");
 const app = express();
 const port = 3000;
 
-app.use(cors());
+// Define CORS options to allow a specific origin
+const corsOptions = {
+  origin: 'https://www.botcup.fr', // Allow only this origin
+  methods: ['GET', 'POST'],       // Allow only GET and POST methods
+  allowedHeaders: ['Content-Type'], // Allow specific headers
+};
+
+app.use(cors(corsOptions)); // Use refined CORS configuration
 app.use(express.json());
 
 let requestQueue = [];
